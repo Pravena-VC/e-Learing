@@ -56,10 +56,10 @@ export default function Courses() {
                 <span className="text-sm text-gray-600">(1,245 reviews)</span>
               </div>
               <div className="flex items-center justify-between">
-                {/* <div>
-                  <span className="text-lg font-bold text-gray-800">$99.99</span>
+                <div>
+                  <span className="text-lg font-bold text-gray-800">Free</span>
                   <span className="text-sm text-gray-500 line-through ml-2">$199.99</span>
-                </div> */}
+                </div>
                 <span className="text-sm text-gray-600">12 hours</span>
               </div>
               <span className="inline-block bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded-full mt-2">
@@ -81,10 +81,10 @@ export default function Courses() {
                 <span className="text-sm text-gray-600">(892 reviews)</span>
               </div>
               <div className="flex items-center justify-between">
-                {/* <div>
-                  <span className="text-lg font-bold text-gray-800">$79.99</span>
+                <div>
+                  <span className="text-lg font-bold text-gray-800">Free</span>
                   <span className="text-sm text-gray-500 line-through ml-2">$149.99</span>
-                </div> */}
+                </div>
                 <span className="text-sm text-gray-600">15 hours</span>
               </div>
               <span className="inline-block bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded-full mt-2">
@@ -104,10 +104,10 @@ export default function Courses() {
                 <span className="text-sm text-gray-600">(892 reviews)</span>
               </div>
               <div className="flex items-center justify-between">
-                {/* <div>
-                  <span className="text-lg font-bold text-gray-800">$79.99</span>
+                <div>
+                  <span className="text-lg font-bold text-gray-800">Free</span>
                   <span className="text-sm text-gray-500 line-through ml-2">$149.99</span>
-                </div> */}
+                </div>
                 <span className="text-sm text-gray-600">15 hours</span>
               </div>
               <span className="inline-block bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded-full mt-2">
@@ -127,10 +127,10 @@ export default function Courses() {
                 <span className="text-sm text-gray-600">(892 reviews)</span>
               </div>
               <div className="flex items-center justify-between">
-                {/* <div>
-                  <span className="text-lg font-bold text-gray-800">$79.99</span>
+                <div>
+                  <span className="text-lg font-bold text-gray-800">Free</span>
                   <span className="text-sm text-gray-500 line-through ml-2">$149.99</span>
-                </div> */}
+                </div>
                 <span className="text-sm text-gray-600">15 hours</span>
               </div>
               <span className="inline-block bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded-full mt-2">
@@ -150,10 +150,10 @@ export default function Courses() {
                 <span className="text-sm text-gray-600">(892 reviews)</span>
               </div>
               <div className="flex items-center justify-between">
-                {/* <div>
-                  <span className="text-lg font-bold text-gray-800">$79.99</span>
+                <div>
+                  <span className="text-lg font-bold text-gray-800">Free</span>
                   <span className="text-sm text-gray-500 line-through ml-2">$149.99</span>
-                </div> */}
+                </div>
                 <span className="text-sm text-gray-600">15 hours</span>
               </div>
               <span className="inline-block bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded-full mt-2">
@@ -173,10 +173,10 @@ export default function Courses() {
                 <span className="text-sm text-gray-600">(892 reviews)</span>
               </div>
               <div className="flex items-center justify-between">
-                {/* <div>
-                  <span className="text-lg font-bold text-gray-800">$79.99</span>
+                <div>
+                  <span className="text-lg font-bold text-gray-800">Free</span>
                   <span className="text-sm text-gray-500 line-through ml-2">$149.99</span>
-                </div> */}
+                </div>
                 <span className="text-sm text-gray-600">15 hours</span>
               </div>
               <span className="inline-block bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded-full mt-2">
@@ -196,10 +196,10 @@ export default function Courses() {
                 <span className="text-sm text-gray-600">(892 reviews)</span>
               </div>
               <div className="flex items-center justify-between">
-                {/* <div>
-                  <span className="text-lg font-bold text-gray-800">$79.99</span>
+                <div>
+                  <span className="text-lg font-bold text-gray-800">Free</span>
                   <span className="text-sm text-gray-500 line-through ml-2">$149.99</span>
-                </div> */}
+                </div>
                 <span className="text-sm text-gray-600">15 hours</span>
               </div>
               <span className="inline-block bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded-full mt-2">
@@ -219,10 +219,10 @@ export default function Courses() {
                 <span className="text-sm text-gray-600">(892 reviews)</span>
               </div>
               <div className="flex items-center justify-between">
-                {/* <div>
-                  <span className="text-lg font-bold text-gray-800">$79.99</span>
+                <div>
+                  <span className="text-lg font-bold text-gray-800">Free</span>
                   <span className="text-sm text-gray-500 line-through ml-2">$149.99</span>
-                </div> */}
+                </div>
                 <span className="text-sm text-gray-600">15 hours</span>
               </div>
               <span className="inline-block bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded-full mt-2">

@@ -43,15 +43,30 @@ export default function First() {
     </nav>
 
     {/* Hero Section */}
-    <section className="bg-gradient-to-r from-blue-500 to-blue-800 text-white py-20">
-      <div className="max-w-7xl mx-auto px-6 flex flex-col md:flex-row items-center">
-        <div className="md:w-1/2 text-center md:text-left">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
+    <section className="bg-gradient-to-r from-blue-500 to-blue-800 text-white text-center py-20">
+      
+          <h2 className="text-4xl md:text-5xl font-bold mb-4 text-center">
             Learn New Skills Online with Top Instructors
-          </h1>
-          <p className="text-xl mb-6">
+          </h2>
+          <p className="text-xl text-center mb-6">
             Explore thousands of courses 
           </p>
+          <button className="mt-5 bg-white text-blue-600 px-6 py-3 rounded-md font-semibold">
+          Start Learning Now
+        </button>
+
+          {/* Hero Section */}
+      {/* <section className="text-center py-20 bg-blue-600 text-white px-6">
+        <h2 className="text-4xl font-bold max-w-2xl mx-auto">
+          Learn the skills you need to succeed in today’s job market
+        </h2>
+        <p className="mt-3 text-lg max-w-xl mx-auto">
+          Get expert-led courses on business, technology, and creative skills
+        </p>
+        <button className="mt-5 bg-white text-blue-600 px-6 py-3 rounded-md font-semibold">
+          Start Learning Now
+        </button>
+      </section> */}
           {/* <div className="flex justify-center md:justify-start">
             <input
               type="text"
@@ -62,16 +77,63 @@ export default function First() {
               Search
             </button>
           </div> */}
-        </div>
-        <div className="md:w-1/2 mt-8 md:mt-0">
+        {/* </div> */}
+        {/* <div className="md:w-1/2 mt-8 md:mt-0">
           <img
             src="https://via.placeholder.com/500x300"
             alt="Learning illustration"
             className="w-full"
           />
-        </div>
-      </div>
+        </div> */}
+      {/* </div> */}
     </section>
+    <main className="max-w-7xl mx-auto px-4 py-12">
+
+    <section className="mb-20 flex flex-col md:flex-row items-center gap-x-28">
+          <div className="md:w-1/2 mb-8 md:mb-0 mr-10">
+            <h2 className="text-4xl font-bold text-gray-800 mb-4">
+              Personalize Your Learning
+            </h2>
+            <p className="text-lg text-gray-600">
+              Set career goals and use Skill Evaluations to connect with the right learning for where you are in your career.
+            </p>
+          </div>
+          <div className="space-x-6 md:w-60 h-50">
+            <img
+              src="frontend\src\assets\edu.jpg"
+              alt="Personalized Learning"
+              className="rounded-lg shadow-md"
+            />
+          </div>
+        </section>
+        {/* Section 1: Guided Learning */}
+        <section className="bg-gray-300 w-full">
+          <h2 className="text-4xl font-bold text-gray-800 mb-4">
+            Guided Learning That Fits Your Career
+          </h2>
+          <p className="text-lg text-gray-600 mb-8">
+            Explore role guides to support your career advancement for over 1,300+ hand-curated pathways for guided learning and deeper skill acquisition.
+          </p>
+          <div className="grid grid-cols-1 md:grid-cols-4 gap-8 text-center">
+            <div>
+              <h3 className="text-3xl font-bold text-blue-600">24,700</h3>
+              <p className="text-gray-600">Courses</p>
+            </div>
+            <div>
+              <h3 className="text-3xl font-bold text-blue-600">3,900+</h3>
+              <p className="text-gray-600">Industry Experts</p>
+            </div>
+            <div>
+              <h3 className="text-3xl font-bold text-blue-600">20+</h3>
+              <p className="text-gray-600">Languages for Subtitles</p>
+            </div>
+            <div>
+              <h3 className="text-3xl font-bold text-blue-600">7</h3>
+              <p className="text-gray-600">Native Languages</p>
+            </div>
+          </div>
+        </section>
+        </main>
 
     {/* Featured Categories */}
     <section className="py-16 px-6">

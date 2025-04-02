@@ -15,6 +15,7 @@ import About from './pages/about';
 import Contact from './pages/contact';
 import Instructor from './pages/instructor';
 import Create from './pages/create';
+import CourseDetailPage from './pages/c_details';
 export default function App() {
   return (
     <div>
@@ -31,6 +32,7 @@ export default function App() {
             <Route path="/contact"element={<Contact/>}/>
             <Route path="/instructor" element={<Instructor />} />
             <Route path="/create" element={<Create />} />
+            <Route path="/course details" element={<CourseDetailPage />} />
           </Route>
           <Route path="*" element={<h1>404-Page not found</h1>}></Route>
       <Route path="/first" element={<First />} /> 

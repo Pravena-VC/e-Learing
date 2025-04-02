@@ -3,7 +3,7 @@ import React from 'react'
 export default function Header() {
   return (
     <div>
-      <nav className="bg-white shadow-md p-4">
+      <nav className="bg-white shadow-md p-4 ">
           <div className="max-w-7xl mx-auto flex justify-between items-center">
           <div className="text-2xl font-bold text-blue-600">EduLearn</div>
             <div className="flex items-center space-x-4">
